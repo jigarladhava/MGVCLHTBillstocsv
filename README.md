@@ -43,6 +43,7 @@ Install required dependencies using :
  $ npm install npm -g
 
 -Place all your pdf files inside "pdftoprocess" directory.
+-You will get csv Resuts in "results" directory.
 
 ## Running the project
 
